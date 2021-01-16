@@ -1,7 +1,7 @@
 
 import './App.css';
 import React from 'react';
-import {useState, useEffect} from 'react';
+import {useState} from 'react';
 import {ResultCard} from "./ResultCard";
 import {MovieCard} from "./MovieCard";
 import {GlobalProvider,GlobalContext} from "./GlobalState";
