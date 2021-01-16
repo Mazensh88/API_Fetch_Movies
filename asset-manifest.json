@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/API_Fetch_Movies_ReactHooks/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/API_Fetch_Movies_ReactHooks/static/js/main.f34ca3ce.chunk.js",
-    "main.js.map": "/API_Fetch_Movies_ReactHooks/static/js/main.f34ca3ce.chunk.js.map",
-    "runtime-main.js": "/API_Fetch_Movies_ReactHooks/static/js/runtime-main.ced93f11.js",
-    "runtime-main.js.map": "/API_Fetch_Movies_ReactHooks/static/js/runtime-main.ced93f11.js.map",
-    "static/js/2.df327784.chunk.js": "/API_Fetch_Movies_ReactHooks/static/js/2.df327784.chunk.js",
-    "static/js/2.df327784.chunk.js.map": "/API_Fetch_Movies_ReactHooks/static/js/2.df327784.chunk.js.map",
-    "static/js/3.d91acfae.chunk.js": "/API_Fetch_Movies_ReactHooks/static/js/3.d91acfae.chunk.js",
-    "static/js/3.d91acfae.chunk.js.map": "/API_Fetch_Movies_ReactHooks/static/js/3.d91acfae.chunk.js.map",
-    "index.html": "/API_Fetch_Movies_ReactHooks/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/API_Fetch_Movies_ReactHooks/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.df327784.chunk.js.LICENSE.txt": "/API_Fetch_Movies_ReactHooks/static/js/2.df327784.chunk.js.LICENSE.txt"
+    "main.css": "/API_Fetch_Movies/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/API_Fetch_Movies/static/js/main.f34ca3ce.chunk.js",
+    "main.js.map": "/API_Fetch_Movies/static/js/main.f34ca3ce.chunk.js.map",
+    "runtime-main.js": "/API_Fetch_Movies/static/js/runtime-main.1767a95a.js",
+    "runtime-main.js.map": "/API_Fetch_Movies/static/js/runtime-main.1767a95a.js.map",
+    "static/js/2.df327784.chunk.js": "/API_Fetch_Movies/static/js/2.df327784.chunk.js",
+    "static/js/2.df327784.chunk.js.map": "/API_Fetch_Movies/static/js/2.df327784.chunk.js.map",
+    "static/js/3.d91acfae.chunk.js": "/API_Fetch_Movies/static/js/3.d91acfae.chunk.js",
+    "static/js/3.d91acfae.chunk.js.map": "/API_Fetch_Movies/static/js/3.d91acfae.chunk.js.map",
+    "index.html": "/API_Fetch_Movies/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/API_Fetch_Movies/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.df327784.chunk.js.LICENSE.txt": "/API_Fetch_Movies/static/js/2.df327784.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ced93f11.js",
+    "static/js/runtime-main.1767a95a.js",
     "static/js/2.df327784.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
     "static/js/main.f34ca3ce.chunk.js"
