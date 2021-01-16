@@ -16,7 +16,7 @@ function App() {
     e.preventDefault();
 
     setQuery(e.target.value);
-    fetch(`http://www.omdbapi.com/?s=${e.target.value}&apikey=bea9b037`)
+    fetch(`https://www.omdbapi.com/?s=${e.target.value}&apikey=bea9b037`)
       .then((res) => res.json())
       .then((data) => {
         if (data.Response === "True") {
